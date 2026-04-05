@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-intmain()
+int main()
 {
   int entero;
   float flotante;
